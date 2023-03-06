@@ -1,5 +1,7 @@
-garbage-collection--research
+research
 ============================
+
+## garbage-collection--research
 
 Garbage Collection research (links to popular articles and on-line available PDFs)
 
@@ -13,3 +15,9 @@ fork from [here](https://github.com/bieli/garbage-collection--research)
 |Incremental Garbage Collection:The Train Algorithm|[url](https://ssw.jku.at/General/Staff/TW/Wuerthinger05Train.pdf)||
 |Garbage-First Garbage Collection|[url](http://cs.williams.edu/~dbarowy/cs334s18/assets/p37-detlefs.pdf)|java g1  Collection|
 
+
+## database-research
+
+|name|url|desc|
+|--|--|--|
+|Cost-based query transformation in Oracle|[url](https://dl.acm.org/doi/10.5555/1182635.1164215)||
