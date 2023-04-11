@@ -27,4 +27,5 @@ fork from [here](https://github.com/bieli/garbage-collection--research)
 |name|url|desc|
 |--|--|--|
 |Integrating the Probabilistic Model BM25/BM25F into Lucene.|[url](https://arxiv.org/abs/0911.5046)| BM25|
+|Using BM25F for Semantic Search|[url](https://km.aifb.kit.edu/ws/semsearch10/Files/bm25f.pdf)||
 
