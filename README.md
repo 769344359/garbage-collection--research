@@ -21,3 +21,10 @@ fork from [here](https://github.com/bieli/garbage-collection--research)
 |name|url|desc|
 |--|--|--|
 |Cost-based query transformation in Oracle|[url](https://dl.acm.org/doi/10.5555/1182635.1164215)||
+
+## IR-research
+
+|name|url|desc|
+|--|--|--|
+|Integrating the Probabilistic Model BM25/BM25F into Lucene.|[url](https://arxiv.org/abs/0911.5046)| BM25|
+
